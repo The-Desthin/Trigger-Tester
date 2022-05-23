@@ -1,0 +1,10 @@
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\TriggerTester.Form1.resources
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\TriggerTester.Properties.Resources.resources
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Trigger Tester.exe.config
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Trigger Tester.exe
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\bin\Debug\Trigger Tester.pdb
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Trigger Tester.exe
+C:\Users\desth\source\repos\DesktopApp1\DesktopApp1\obj\Debug\Trigger Tester.pdb
